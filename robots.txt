@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rolo231.github.io/rbscripts/sitemap.xml
